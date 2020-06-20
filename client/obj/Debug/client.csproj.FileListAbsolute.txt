@@ -1,0 +1,11 @@
+C:\Users\STT\Desktop\vova\server\client\bin\Debug\client.exe.config
+C:\Users\STT\Desktop\vova\server\client\bin\Debug\client.exe
+C:\Users\STT\Desktop\vova\server\client\bin\Debug\client.pdb
+C:\Users\STT\Desktop\vova\server\client\bin\Debug\server.exe
+C:\Users\STT\Desktop\vova\server\client\bin\Debug\server.pdb
+C:\Users\STT\Desktop\vova\server\client\bin\Debug\server.exe.config
+C:\Users\STT\Desktop\vova\server\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\STT\Desktop\vova\server\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\STT\Desktop\vova\server\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\STT\Desktop\vova\server\client\obj\Debug\client.exe
+C:\Users\STT\Desktop\vova\server\client\obj\Debug\client.pdb

@@ -1,0 +1,15 @@
+C:\Users\STT\Desktop\vova\server\clientgui\bin\Debug\clientgui.exe.config
+C:\Users\STT\Desktop\vova\server\clientgui\bin\Debug\clientgui.exe
+C:\Users\STT\Desktop\vova\server\clientgui\bin\Debug\clientgui.pdb
+C:\Users\STT\Desktop\vova\server\clientgui\bin\Debug\server.exe
+C:\Users\STT\Desktop\vova\server\clientgui\bin\Debug\server.pdb
+C:\Users\STT\Desktop\vova\server\clientgui\bin\Debug\server.exe.config
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.csprojAssemblyReference.cache
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.frm_AddItem.resources
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.frm_Main.resources
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.Properties.Resources.resources
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.csproj.GenerateResource.cache
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.csproj.CoreCompileInputs.cache
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.csproj.CopyComplete
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.exe
+C:\Users\STT\Desktop\vova\server\clientgui\obj\Debug\clientgui.pdb

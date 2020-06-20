@@ -1,0 +1,7 @@
+C:\Users\STT\Desktop\vova\server\server\bin\Debug\server.exe.config
+C:\Users\STT\Desktop\vova\server\server\bin\Debug\server.exe
+C:\Users\STT\Desktop\vova\server\server\bin\Debug\server.pdb
+C:\Users\STT\Desktop\vova\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\STT\Desktop\vova\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\STT\Desktop\vova\server\server\obj\Debug\server.exe
+C:\Users\STT\Desktop\vova\server\server\obj\Debug\server.pdb
