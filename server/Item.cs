@@ -22,13 +22,6 @@ namespace server
             this.price = price;
         }
 
-        /*
-         * То, что написано ниже - такую хуйню нельзя писать, это говнокод.
-         * Необходимо использовать auto-implemented properties:
-         * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties
-         * Это не Java, блять!
-         */
-
         public string GetName()
         {
             return name;
