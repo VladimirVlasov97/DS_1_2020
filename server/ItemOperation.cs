@@ -7,10 +7,6 @@ namespace server
     {
         private static List<Item> items = new List<Item>();
 
-        /*
-         * Кстати, постоянно возвращать список items - это тоже говнокод. Ещё раз - это не Java.
-         */
-
         public List<Item> AddItem(Item item)
         {
             items.Add(item);

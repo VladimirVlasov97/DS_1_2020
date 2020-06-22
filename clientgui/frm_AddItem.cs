@@ -45,10 +45,7 @@ namespace clientgui
             }
             Close();
         }
-
-        /*
-         * Говнокод.
-         */
+        
         public Item GetCreatedItem()
         {
             return newItem;
